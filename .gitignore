@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+data/
+outputs/final_submission.csv
+outputs/top100_detailed.csv
+
+.vscode/
+.idea/
